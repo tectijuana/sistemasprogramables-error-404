@@ -6,5 +6,6 @@
 |---------------------------------|---------------|--------------|
 | Aulis Sanchez Victor Jair       |               |              |
 | Hernández Gambino Kevin Josafat |               |              |
+| Jimenez Ramirez Gonzalo David   |               |              |
 | Ornelas López Karina Karla      |               |              |
-|                                 |               |              |
+
