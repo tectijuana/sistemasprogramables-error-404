@@ -9,6 +9,13 @@ _Cierre de bloque 1_
   <img src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_79069305_perro-pug-con-amarillo-casco-y-cono-de-seguridad-constructor-y-error-404-y-callej%25C3%25B3n-sin-salida-en-poste.html&psig=AOvVaw0uY6BO1o4q9wpalzlpFlys&ust=1583390142608000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiC3o-agOgCFQAAAAAdAAAAABAa">
 </p>
 
+# ![](https://images.cooltext.com/5387873.png)
+
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+
+
+
 | Nombre                          | Participación | Calificación |
 |:---------------------------------:|:---------------:|:--------------:|
 | Aulis Sanchez Victor Jair       |               |              |
