@@ -34,8 +34,16 @@ ___
 **Potencia:** DC5V ± 10% 70mA ± 10%  
 **Temperatura de operación :** -10 ℃ ~ 60 ℃ RH95% Max  
 ___
+### Contenido del paquete:  
+1 x 600TVL  Wide Angle Lens Camera 
+___
+**Imagenes producto:**  
+
 ![](http://imgfz.com/i/GCod7nz.png)
 ![](http://imgfz.com/i/7NqCOJH.png)
+
+___
+### Integrantes team error 404
 
 | Nombre                          | Participación | Calificación |
 |:-------------------------------:|:-------------:|:------------:|
