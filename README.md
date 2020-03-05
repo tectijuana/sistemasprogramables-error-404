@@ -39,9 +39,7 @@ ___
 **Temperatura de operación :** -10 ℃ ~ 60 ℃ RH95% Max  
 ___
 ![](http://s2.subirimagenes.com/imagen/previo/thump_99186801.png)
-![](http://s2.subirimagenes.com/imagen/previo/thump_99186812.png)
-![](http://s2.subirimagenes.com/imagen/previo/thump_99186823.png)
-![](http://s2.subirimagenes.com/imagen/previo/thump_99186834.png)
+![](http://imgfz.com/i/7NqCOJH.png)
 
 | Nombre                          | Participación | Calificación |
 |:-------------------------------:|:-------------:|:------------:|
