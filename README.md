@@ -5,10 +5,6 @@ _Cierre de bloque 1_
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Ft%2Ferror-isolated-icon-simple-element-illustration-programming-concept-icons-editable-logo-sign-symbol-design-white-142291263.jpg&f=1&nofb=1">
 </p>
 
-<p align="center">
-  <img src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_79069305_perro-pug-con-amarillo-casco-y-cono-de-seguridad-constructor-y-error-404-y-callej%25C3%25B3n-sin-salida-en-poste.html&psig=AOvVaw0uY6BO1o4q9wpalzlpFlys&ust=1583390142608000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiC3o-agOgCFQAAAAAdAAAAABAa">
-</p>
-
 # ![](https://images.cooltext.com/5387873.png)
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
@@ -38,7 +34,7 @@ ___
 **Potencia:** DC5V ± 10% 70mA ± 10%  
 **Temperatura de operación :** -10 ℃ ~ 60 ℃ RH95% Max  
 ___
-![](http://s2.subirimagenes.com/imagen/previo/thump_99186801.png)
+![](http://imgfz.com/i/GCod7nz.png)
 ![](http://imgfz.com/i/7NqCOJH.png)
 
 | Nombre                          | Participación | Calificación |
