@@ -53,12 +53,14 @@ ___
 
 ![](http://imgfz.com/i/X3xFv1J.png)
 ___
-### Imagenes técnicas
+### Diagrama de bloque
 
 ![](http://imgfz.com/i/lz40gtD.png)
+___
+### Dimensiones del sensor
 ![](http://imgfz.com/i/0nQhxvX.png)
 ___
-**Pines del sensor**
+### Pines del sensor
 ![](http://imgfz.com/i/dpaFWCi.png)
 | No.pin | Nombre de pin | Tipo    | Descripción                      |
 |--------|---------------|---------|----------------------------------|
