@@ -57,8 +57,31 @@ ___
 
 ![](http://imgfz.com/i/lz40gtD.png)
 ![](http://imgfz.com/i/0nQhxvX.png)
-![](http://imgfz.com/i/dpaFWCi.png)
 ___
+**Pines del sensor**
+![](http://imgfz.com/i/dpaFWCi.png)
+| No.pin | Nombre de pin | Tipo    | Descripción                      |
+|--------|---------------|---------|----------------------------------|
+| 1      | GND           | Tierra  | Entrada a tierra                 |
+| 2      | Flash         | Salida  | Control de salida de flash       |
+| 3      | Trigger       | Entrada | Entrada de exposicion de color   |
+| 4      | VSYNC         | Salida  | Indica si la ventana esta activa |
+| 5      | HREF          | Salida  | Indica los pixeles activos       |
+| 6      | DOUT11        | Salida  | Datos de salida 11               |
+| 7      | DOUT10        | Salida  | Datos de salida 10               |
+| 8      | DOUT11        | Salida  | Datos de salida 9                |
+| 9      | DOUT11        | Salida  | Datos de salida 8                |
+| 10     | DOUT11        | Salida  | Datos de salida 7                |
+| 11     | DOUT11        | Salida  | Datos de salida 6                |
+| 12     | DOUT11        | Salida  | Datos de salida 5                |
+| 13     | DOUT11        | Salida  | Datos de salida                  |
+| 14     | GND           | Tierra  | Tierra                           |
+| 27     | VCC           | Voltaje | Entrada de voltaje               |
+| 28     | VCC           | Voltaje | Entrada de voltaje               |
+| 29     | VCC           | Voltaje | Entrada de voltaje               |
+| 30     | VCC           | Voltaje | Entrada de voltaje               |
+___
+
 ### Link de compra
 [![](http://files.softicons.com/download/toolbar-icons/black-wireframe-toolbar-icons-by-gentleface/png/32/shop_cart.png)](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html)
 [CMOS AR0134](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html) 
