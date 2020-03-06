@@ -9,7 +9,7 @@ _Cierre de bloque 1_
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-## 600TVL 1/4 1.8mm CMOS FPV 170 Degree Wide Angle Lens Camera PAL/NTSC 3.7-5V
+## CMOSAR0134 Camera Module 1/3-Inch 1.2MP Color Module
 ___
 ### Descripción:
 
@@ -46,6 +46,11 @@ ___
 ![](http://imgfz.com/i/X3xFv1J.png)
 ![](http://imgfz.com/i/lz40gtD.png)
 
+___
+
+### PDF Datasheet
+[![](http://files.softicons.com/download/toolbar-icons/plastic-mini-icons-by-deleket/png/32x32/File%20PDF-01.png)](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)
+[CMOS AR0134 Datasheet](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)
 ___
 ### Integrantes team error 404
 
