@@ -38,19 +38,38 @@ ___
 **Potencia:** DC5V ± 10% 70mA ± 10%  
 **Temperatura de operación :** -10 ℃ ~ 60 ℃ RH95% Max  
 ___
+### Aplicaciones:
+
+- Seguridad  
+- Imagenes de alto rango
+- Vigilancia
+- Visión de dron 
+- Automatización
+___
 ### Contenido del paquete:  
-1 x 600TVL  Wide Angle Lens Camera 
+1 pcs Arducam CMOS AR0134 1/3-Pulgadas 1.2MP Modulo de camara a color
 ___
 **Imagenes producto:**  
 
 ![](http://imgfz.com/i/X3xFv1J.png)
-![](http://imgfz.com/i/lz40gtD.png)
 
 ___
+### Link de compra
+[![](http://files.softicons.com/download/toolbar-icons/black-wireframe-toolbar-icons-by-gentleface/png/32/shop_cart.png)](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html)
+[CMOS AR0134](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html) 
+___
+### Imagenes técnicas
+
+![](http://imgfz.com/i/lz40gtD.png)
+![](http://imgfz.com/i/0nQhxvX.png)
+![](http://imgfz.com/i/dpaFWCi.png)
 
 ### PDF Datasheet
 [![](http://files.softicons.com/download/toolbar-icons/plastic-mini-icons-by-deleket/png/32x32/File%20PDF-01.png)](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)
-[CMOS AR0134 Datasheet](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)
+[CMOS AR0134 Datasheet](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)  
+[![](http://files.softicons.com/download/toolbar-icons/plastic-mini-icons-by-deleket/png/32x32/File%20PDF-01.png)](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)
+[CMOS AR0134 Manual](http://www.arducam.com/downloads/modules/industrial/AR0134_DS.pdf)
+
 ___
 ### Integrantes team error 404
 
