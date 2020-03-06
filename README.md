@@ -47,9 +47,9 @@ ___
 - Automatización
 ___
 ### Contenido del paquete:  
-1 pcs Arducam CMOS AR0134 1/3-Pulgadas 1.2MP Modulo de camara a color
+1 x Arducam CMOS AR0134 1/3-Pulgadas 1.2MP Modulo de camara a color
 ___
-**Imagenes producto:**  
+### Imagenes producto:
 
 ![](http://imgfz.com/i/X3xFv1J.png)
 
