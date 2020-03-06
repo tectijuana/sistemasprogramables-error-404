@@ -12,7 +12,7 @@ _Cierre de bloque 1_
 ## 600TVL 1/4 1.8mm CMOS FPV 170 Degree Wide Angle Lens Camera PAL/NTSC 3.7-5V
 ___
 ### Descripción:
-
+<p style="text-align: justify;">El módulo **AR0134** es un módulo de cámara de color con obturador global de 1/3 de pulgada y 1.2MP que se puede operar en su modo predeterminado o programado para el tamaño del marco, la exposición, la ganancia y otros parámetros. La salida del modo predeterminado es una imagen de resolución completa a 54 cuadros por segundo (fps). Produce datos en bruto de 12 bits, utilizando los puertos de salida paralelos. El dispositivo puede funcionar en modo de video (maestro) o en modo de disparo de cuadro. Las señales **FRAME_VALID** y **LINE_VALID** se emiten en pines dedicados, junto con un reloj de píxeles asincrónico. Se puede programar un pin FLASH dedicado para controlar la iluminación del LED externo o de la exposición del flash. El AR0134 incluye características adicionales para permitir la sintonización específica de la aplicación: ventanas, control de exposición automática ajustable, corrección automática del nivel de negro, sensor de temperatura a bordo y salto de fila y digital binning El AR0134 es un sensor de exploración progresiva que genera un flujo de datos de píxeles a una velocidad de cuadro constante. Utiliza un bucle de fase bloqueada (PLL) en el chip que se puede habilitar opcionalmente para generar todos los relojes internos a partir de un solo reloj de entrada maestro que funciona entre 6 y 50 MHz. La tasa de píxeles de salida máxima es 74.25 Mp / s, correspondiente a una velocidad de reloj de 74.25 MHz.</p>
 ___
 ### Catacteristicas:
 **Resolución:** 1280 * 960  
@@ -41,6 +41,7 @@ ___
 ___
 **Imagenes producto:**  
 
+![](http://imgfz.com/i/X3xFv1J.png)
 ![](http://imgfz.com/i/lz40gtD.png)
 
 ___
