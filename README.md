@@ -12,7 +12,9 @@ _Cierre de bloque 1_
 ## 600TVL 1/4 1.8mm CMOS FPV 170 Degree Wide Angle Lens Camera PAL/NTSC 3.7-5V
 ___
 ### Descripción:
+
 ___
+### Catacteristicas:
 **Resolución:** 1280 * 960  
 **Resolución:** 600TVL  
 **Dimensiones:** 12.5mm * 12.5mm * 17mm  
@@ -39,8 +41,7 @@ ___
 ___
 **Imagenes producto:**  
 
-![](http://imgfz.com/i/GCod7nz.png)
-![](http://imgfz.com/i/7NqCOJH.png)
+![](http://imgfz.com/i/lz40gtD.png)
 
 ___
 ### Integrantes team error 404
