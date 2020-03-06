@@ -9,7 +9,7 @@ _Cierre de bloque 1_
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-## CMOSAR0134 Camera Module 1/3-Inch 1.2MP Color Module
+## CMOS AR0134 Camera Module 1/3-Inch 1.2MP Color Module
 ___
 ### Descripción:
 
