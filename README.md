@@ -52,18 +52,16 @@ ___
 ### Imagenes producto:
 
 ![](http://imgfz.com/i/X3xFv1J.png)
-
-___
-### Link de compra
-[![](http://files.softicons.com/download/toolbar-icons/black-wireframe-toolbar-icons-by-gentleface/png/32/shop_cart.png)](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html)
-[CMOS AR0134](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html) 
 ___
 ### Imagenes técnicas
 
 ![](http://imgfz.com/i/lz40gtD.png)
 ![](http://imgfz.com/i/0nQhxvX.png)
 ![](http://imgfz.com/i/dpaFWCi.png)
-
+___
+### Link de compra
+[![](http://files.softicons.com/download/toolbar-icons/black-wireframe-toolbar-icons-by-gentleface/png/32/shop_cart.png)](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html)
+[CMOS AR0134](https://www.uctronics.com/arducam-cmos-ar0134-1-3-inch-1-2mp-color-camera-module.html) 
 ### PDF Datasheet
 [![](http://files.softicons.com/download/toolbar-icons/plastic-mini-icons-by-deleket/png/32x32/File%20PDF-01.png)](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)
 [CMOS AR0134 Datasheet](http://www.arducam.com/downloads/modules/industrial/1Inch3_1.2_Megapixel_AR0134_CMOS_Camera_Module_DS.pdf)  
