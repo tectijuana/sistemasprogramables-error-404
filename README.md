@@ -14,23 +14,23 @@ ___
 ### Descripción:
 
 El módulo **AR0134** es un módulo de cámara de color con obturador global de 1/3 de pulgada y 1.2MP que se puede operar en su modo predeterminado o programado para el tamaño del marco, la exposición, la ganancia y otros parámetros. La salida del modo predeterminado es una imagen de resolución completa a 54 cuadros por segundo (fps). Produce datos en bruto de 12 bits, utilizando los puertos de salida paralelos. El dispositivo puede funcionar en modo de video (maestro) o en modo de disparo de cuadro. Las señales **FRAME_VALID** y **LINE_VALID** se emiten en pines dedicados, junto con un reloj de píxeles asincrónico. Se puede programar un pin FLASH dedicado para controlar la iluminación del LED externo o de la exposición del flash. El AR0134 incluye características adicionales para permitir la sintonización específica de la aplicación: ventanas, control de exposición automática ajustable, corrección automática del nivel de negro, sensor de temperatura a bordo y salto de fila y digital binning El AR0134 es un sensor de exploración progresiva que genera un flujo de datos de píxeles a una velocidad de cuadro constante. Utiliza un bucle de fase bloqueada (PLL) en el chip que se puede habilitar opcionalmente para generar todos los relojes internos a partir de un solo reloj de entrada maestro que funciona entre 6 y 50 MHz. La tasa de píxeles de salida máxima es 74.25 Mp / s, correspondiente a una velocidad de reloj de 74.25 MHz.
-
-Ventajas de los sensores CMOS respecto a los sensores CCD
-Consumo eléctrico muy inferior
-Son más económicos porque necesitan menos componentes externos
-Pueden leer un mayor número de píxeles de forma simultánea
-El conversor digital puede estar integrado en el mismo chip
-Escaso o inexistente Blooming ("Smear")
-Mayor flexibilidad en la lectura (Previsualización más rápida, vídeo,...)
-Permiten la exposición y lectura de los píxeles de forma simultánea
-Otras topologías posibles (el sensor SuperCCD de Fujifilm emplea una construcción en forma de panel (octogonal) para los píxeles)
-Distintos tipos de píxeles (según tamaño y sensibilidad) combinables
-Muy alta frecuencia de imagen en comparación a un CCD del mismo tamaño
-
-Desventajas de los sensores CMOS respecto a los sensores CCD
-Menor superficie receptora de la luz por píxel
-Menor uniformidad de los píxeles (mayor ruido de patrón fijo-FPN)
-Efecto "jelly" o inestabilidad en la imagen con movimientos rápidos (se tuerce el vídeo) o flashes debido al tipo de obturación giratoria que utiliza.
+___
+### Ventajas de los sensores CMOS respecto a los sensores CCD  
+- Consumo eléctrico muy inferior  
+- Son más económicos porque necesitan menos componentes externos  
+- Pueden leer un mayor número de píxeles de forma simultánea  
+- El conversor digital puede estar integrado en el mismo chip  
+- Escaso o inexistente Blooming ("Smear")  
+- Mayor flexibilidad en la lectura (Previsualización más rápida, vídeo,...)  
+- Permiten la exposición y lectura de los píxeles de forma simultánea  
+- Otras topologías posibles (el sensor SuperCCD de Fujifilm emplea una construcción en forma de panel (octogonal) para los píxeles)  
+- Distintos tipos de píxeles (según tamaño y sensibilidad) combinables  
+- Muy alta frecuencia de imagen en comparación a un CCD del mismo tamaño  
+___
+### Desventajas de los sensores CMOS respecto a los sensores CCD
+- Menor superficie receptora de la luz por píxel  
+- Menor uniformidad de los píxeles (mayor ruido de patrón fijo-FPN)  
+- Efecto "jelly" o inestabilidad en la imagen con movimientos rápidos (se tuerce el vídeo) o flashes debido al tipo de obturación giratoria que utiliza.  
 
 
 ___
